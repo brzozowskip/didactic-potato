@@ -1,2 +1,3 @@
 # didactic-potato
 # hello
+/echo
